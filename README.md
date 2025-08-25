@@ -1,2 +1,2 @@
 # tamkeen-assig-2-
-ecommerce  app "fitshop"
+ecommerce  app "fit shop"
